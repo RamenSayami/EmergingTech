@@ -7,7 +7,7 @@
 <p align="justify"> The aim of this project is to develop advanced techniques and methodologies to address the challenges faced in the heathcare industry such as predicting diseases, interpreting medical text and accurately classifying medical images. The purpose of addressing the problem of predicting diseases, interpreting medical text and classifying medical images in the healthcare industry is to improve the accuracy, efficiency, and effectiveness of healthcare processes and decision-making. By leveraging automated machine learning (AutoML) techniques, the aim is to enhance the interpretation of medical text and improve the classification of medical images, ultimately leading to better patient care and outcomes. AutoML, or Automated Machine Learning, refers to the automated process of building and optimizing machine learning models without the need for manual intervention. It aims to streamline the model development process, reduce the time and effort required, and improve the accuracy and efficiency of the models.
 
 
-#**Purpose vision and scope of the problem:**
+# **Purpose vision and scope of the problem:**
 
 <p align="justify"> The purpose of predicting diseases in the healthcare industry is to leverage data-driven techniques, including machine learning, to improve early detection, intervention, and treatment strategies. By developing accurate disease prediction models, healthcare professionals can proactively identify individuals at risk, optimize resource allocation, and enhance patient outcomes. The ultimate goal is to transform healthcare delivery by leveraging predictive analytics to improve disease management, reduce healthcare costs, and save lives.
 
